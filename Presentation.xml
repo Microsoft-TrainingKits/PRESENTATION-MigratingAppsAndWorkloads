@@ -9,9 +9,9 @@
   <Description>
 	Migration application patterns and walks through for moving workloads from on-premises to the cloud with IaaS.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\MigratingAppsAndWorkloads.pptx</Document>
+  <Document RemoveSpeakerNotes="false">.\MigratingAppsAndWorkloads.pptx</Document>
   <Title>Windows Azure Migrating Applications and Workloads</Title>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation,itprocamps" />
